@@ -25,7 +25,7 @@
 * **Linux/Mac** - *gradlew bootRun -Pargs=<your_args>*
 
 #### Пример команды:
-    .\gradlew.bat bootRun -Pargs=task1
+    .\gradlew.bat bootRun -Pargs=task1both
     
     
 ## Task 3
